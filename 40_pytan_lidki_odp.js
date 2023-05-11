@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Odpalasz se pytania, jedziesz na dół i klikasz sprawdź odpowiedzi. Gratulacje, masz 6.
 // @author       onhq11, Szurag
-// @match        https://egzamin-informatyk.pl/odpowiedzi-bazy-danych-sql-mysql/
+// @match        https://egzamin-informatyk.pl/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=egzamin-informatyk.pl
 // @grant        none
 // ==/UserScript==
